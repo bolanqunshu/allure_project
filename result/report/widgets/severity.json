@@ -1,0 +1,11 @@
+[ {
+  "uid" : "fdfbf48162d9478e",
+  "name" : "test_steps_demo[mac pro 2009]",
+  "time" : {
+    "start" : 1612864192126,
+    "stop" : 1612864210695,
+    "duration" : 18569
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

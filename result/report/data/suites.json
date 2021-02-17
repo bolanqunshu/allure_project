@@ -1,0 +1,22 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_baidudemo",
+    "children" : [ {
+      "name" : "test_steps_demo[mac pro 2009]",
+      "uid" : "fdfbf48162d9478e",
+      "parentUid" : "b39c8320d0ee1382a46effc7ee2184aa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612864192126,
+        "stop" : 1612864210695,
+        "duration" : 18569
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'mac pro 2009'" ]
+    } ],
+    "uid" : "b39c8320d0ee1382a46effc7ee2184aa"
+  } ]
+}

@@ -1,0 +1,22 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "百度搜索",
+    "children" : [ {
+      "name" : "test_steps_demo[mac pro 2009]",
+      "uid" : "fdfbf48162d9478e",
+      "parentUid" : "a76e3034c0bacf1f726844fd54aff2b5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612864192126,
+        "stop" : 1612864210695,
+        "duration" : 18569
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'mac pro 2009'" ]
+    } ],
+    "uid" : "a76e3034c0bacf1f726844fd54aff2b5"
+  } ]
+}

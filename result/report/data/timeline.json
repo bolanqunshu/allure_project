@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "SC-202009151434",
+    "children" : [ {
+      "name" : "61552-MainThread",
+      "children" : [ {
+        "name" : "test_steps_demo[mac pro 2009]",
+        "uid" : "fdfbf48162d9478e",
+        "parentUid" : "70f0a27e948ac5539ffa2d4345a2e522",
+        "status" : "passed",
+        "time" : {
+          "start" : 1612864192126,
+          "stop" : 1612864210695,
+          "duration" : 18569
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'mac pro 2009'" ]
+      } ],
+      "uid" : "70f0a27e948ac5539ffa2d4345a2e522"
+    } ],
+    "uid" : "dd4265bd5a42114161b5f2964e46e673"
+  } ]
+}
