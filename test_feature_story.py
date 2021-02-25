@@ -35,5 +35,7 @@ class TestLoging():
     def test_login_failure_a(self):
         print("这是登录：测试用例，登录失败")
         pass
+
+
 if __name__ == '__main__':
     pytest.main()
